@@ -1,8 +1,7 @@
 # task1-The-Boston-Dynamics-robot-dog
 Initial mechanical design of a Boston Dynamics-inspired quadruped robot created in Tinker cad, focusing on body structure, leg mechanism, joints, and future actuator integration.
 
-shape:
-## Robot Description
+#shape:
 
  The robot features a compact rectangular chassis designed to house and protect its internal electronic components, such as the microcontroller, battery, sensors, and wiring, from dust and minor external impacts. The body is lightweight yet strong enough to support the robot's mechanical structure.
 
