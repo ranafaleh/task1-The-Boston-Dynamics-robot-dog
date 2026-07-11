@@ -76,7 +76,7 @@ Motor controller
 
 
 
-#Touqe calculation:
+
 
 ## Torque Calculation
 
@@ -125,5 +125,8 @@ Since this robot is inspired by the Boston Dynamics Spot robot, it is designed t
 
 # excepted Mechanical issues:
 
+1-Joint wear caused by continuous movement and repeated impacts
+2-Limited servo motor torque, which may affect the robot's ability to carry weight or climb obstacles.
+3-Limited battery capacity, reducing the robot's operating time.
+4- Uneven weight distribution can cause the robot to lose balance.
 
-fraction between the joint 
