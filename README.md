@@ -124,4 +124,7 @@ The symmetrical leg arrangement and balanced weight distribution help the robot 
  
 Since this robot is inspired by the Boston Dynamics Spot robot, it is designed to use a trot gait. In this gait, diagonal pairs of legs move together, allowing the robot to achieve faster and more stable movement across different terrains.
 
- excepted Mechanical issues
+# excepted Mechanical issues:
+
+
+fraction between the joint 
